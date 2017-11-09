@@ -30,6 +30,7 @@ int main(int argc, char** argv){
             }
         }
         printf("Case #%d: The maximum product is %jd.\n\n", t++, max > 0 ? max : 0);
+        free(numbers);
     }
     return 0;
 }
