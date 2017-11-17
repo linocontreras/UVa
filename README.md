@@ -45,12 +45,14 @@
 * 11103
 * 11264
 * 11900
-* 12210
 
 ### Aceptados
 * 10785
 
 ![Problema 11059 aceptado](./10785/10785.png)
+* 12210
+
+![Problema 11059 aceptado](./12210/12210.png)
  
 ## Programación Dinámica
 * 108
